@@ -1,6 +1,6 @@
 #include <iostream>
 
-static void welcomeFunction()
+static void WelcomeFunction()
 {
     std::cout << "Welcome to the Course" << std::endl;
 }
@@ -9,5 +9,5 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    welcomeFunction();
+    WelcomeFunction();
 }
